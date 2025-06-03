@@ -38,6 +38,7 @@
 
   <SettingsWindow />
   <LiveStatsWindow />
+</div> <!-- This closes the outermost <div> -->
 
 <style lang="postcss">
   @reference "../app.css";
